@@ -1,0 +1,7 @@
+body {
+  display: inline-flex;
+  flex-wrap: wrap;
+}
+div {
+  margin: 2px 2px;
+}
